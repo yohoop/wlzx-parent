@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wlzx-service-api" />
+        <module name="wlzx-service-manage-course" />
+        <module name="wlzx-eureka-server" />
+        <module name="wlzx-service-search" />
+        <module name="wlzx-common" />
+        <module name="wlzx-service-manage-media" />
+        <module name="wlzx-po" />
+        <module name="wlzx-service-manage-cms" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wlzx-common" options="-parameters" />
+      <module name="wlzx-eureka-server" options="-parameters" />
+      <module name="wlzx-po" options="-parameters" />
+      <module name="wlzx-service-api" options="-parameters" />
+      <module name="wlzx-service-manage-cms" options="-parameters" />
+      <module name="wlzx-service-manage-course" options="-parameters" />
+      <module name="wlzx-service-manage-media" options="-parameters" />
+      <module name="wlzx-service-search" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="net.wanho.manage_course.mapper.TeachplanMapper">
+
+    <resultMap id="TeachplanNodeMap" type="net.wano.po.course.ext.TeachplanNode">
+        <id column="one_id" property="id"/>
+        <result column="one_name" property="pname"/>
+        <collection property="children" ofType="net.wano.po.course.ext.TeachplanNode">
+            <id column="two_id" property="id"/>
+            <result column="two_name" property="pname"/>
+            <collection property="children" ofType="net.wano.po.course.ext.TeachplanNode">
+                <id column="three_id" property="id"/>
+                <result column="three_pname" property="pname"/>
+            </collection>
+        </collection>
+    </resultMap>
+
+    <select id="selectTree" parameterType="string" resultMap="TeachplanNodeMap">
+        SELECT a.id one_id,a.pname one_name,
+        b.id two_id,b.pname two_name,
+        c.id three_id,c.pname three_pname
+        FROM teachplan AS a
+        LEFT JOIN teachplan AS b
+        ON a.id=b.parentid
+        LEFT JOIN teachplan AS c
+        ON b.id=c.parentid
+        WHERE a.courseid=#{courseId}
+        AND a.parentid='0'
+        ORDER BY a.orderby,b.orderby,c.orderby
+    </select>
+
+</mapper>

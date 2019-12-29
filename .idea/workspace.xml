@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8a8589-be2d-4da1-955f-a971ddba0008" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-po/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-common/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-service-manage-cms/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-service-manage-course/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-service-search/target/" />
+    <ignored path="$PROJECT_DIR$/wlzx-service-manage-media/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mybatis-spring-boot.version</find>
+      <find>commons-fileupload.version</find>
+      <find>elasticsearch.version</find>
+      <find>spring-boot.version</find>
+      <find>okhttp.version</find>
+      <find>spring-data-mongodb</find>
+      <find>lombok</find>
+      <find>springfox-swagger2</find>
+      <find>fastdfs</find>
+      <find>freemarker</find>
+      <find>spring-boot-starter-amqp</find>
+      <find>MediaUploadControllerApi</find>
+      <find>MediaFile</find>
+      <find>fastFileStorageClient</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wlzx-service-api/src/main/java/net/wanho/api/course/CourseControllerApi.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/mapper/FileSystemMapper.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/mapper/CoursePicMapper.java" />
+        <option value="$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/course/response/CourseCode.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/service/CoursePicService.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/service/FileSystemService.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/controller/CmsPagePreviewController.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/src/test/java/net/wanho/manage_cms/FastDFSTest.java" />
+        <option value="$PROJECT_DIR$/wlzx-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/wlzx-eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlzx-eureka-server/src/main/java/net/wanho/eureka_server/WlzxEurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/WlzxServiceManageCmsApplication.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/pom.xml" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/WlzxServiceManageCourseApplication.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/controller/CmsPageController.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/controller/CourseController.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/mapper/CoursePubMapper.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/service/CourseService.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/client/CmsPageClient.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-course/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlzx-service-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlzx-po/pom.xml" />
+        <option value="$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/course/CoursePubDocument.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-api/src/main/java/net/wanho/api/search/EsCourseControllerApi.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-search/src/main/java/net/wanho/service_search/service/EsCourseService.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-search/pom.xml" />
+        <option value="$PROJECT_DIR$/wlzx-service-search/src/test/java/net/wanho/service_search/WlzxServiceSearchApplicationTests.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-search/src/main/java/net/wanho/service_search/controller/EsCourseController.java" />
+        <option value="$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/media/MediaFileProcess_m3u8.java" />
+        <option value="$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/media/MediaFileProcessM3u8.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/config/ExceptionConfig.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/config/MyBatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/test/java/net/wanho/manage_media/TestFile2.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/test/java/net/wanho/manage_media/TestFile.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/mapper/MediaFileMapper.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/controller/MediaUploadController.java" />
+        <option value="$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/media/MediaFile.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/pom.xml" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/WlzxServiceManageMediaApplication.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/test/java/net/wanho/manage_media/TestProcessBuilder.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/service/CmsPageService.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/service/MediaUploadService.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/listener/PostPageListener.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/mapper/MediaFileProcessM3u8Mapper.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/resources/mapper/MediaFileProcessM3u8Mapper.xml" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/config/RabbitmqConfig.java" />
+        <option value="$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/listener/MediaListener.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wlzx-service-manage-media" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/git/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.wanho.manage_media.config" />
+      <recent name="net.wanho.manage_course.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\wlzx-parent\wlzx-service-manage-media\src\main\java\net\wanho\manage_media\config" />
+      <recent name="C:\Users\Administrator\IdeaProjects\wlzx-parent\wlzx-service-manage-cms\src\main\resources\templates" />
+      <recent name="C:\Users\Administrator\IdeaProjects\wlzx-parent\wlzx-service-manage-course\src\main\java\net\wanho\manage_course\config" />
+      <recent name="C:\Users\Administrator\IdeaProjects\wlzx-parent\wlzx-service-manage-course\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WlzxEurekaServerApplication">
+    <configuration name="TestFile2.testChunk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlzx-service-manage-media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.wanho.manage_media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.wanho.manage_media" />
+      <option name="MAIN_CLASS_NAME" value="net.wanho.manage_media.TestFile2" />
+      <option name="METHOD_NAME" value="testChunk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFile.testMerge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlzx-service-manage-media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.wanho.manage_media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.wanho.manage_media" />
+      <option name="MAIN_CLASS_NAME" value="net.wanho.manage_media.TestFile" />
+      <option name="METHOD_NAME" value="testMerge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProcessBuilder.testFFmpeg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlzx-service-manage-media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.wanho.manage_media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.wanho.manage_media" />
+      <option name="MAIN_CLASS_NAME" value="net.wanho.manage_media.TestProcessBuilder" />
+      <option name="METHOD_NAME" value="testFFmpeg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProcessBuilder.testMp4VideoUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlzx-service-manage-media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.wanho.manage_media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.wanho.manage_media" />
+      <option name="MAIN_CLASS_NAME" value="net.wanho.manage_media.TestProcessBuilder" />
+      <option name="METHOD_NAME" value="testMp4VideoUtil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProcessBuilder.testProcessBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlzx-service-manage-media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.wanho.manage_media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.wanho.manage_media" />
+      <option name="MAIN_CLASS_NAME" value="net.wanho.manage_media.TestProcessBuilder" />
+      <option name="METHOD_NAME" value="testProcessBuilder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlzxEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlzx-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.wanho.eureka_server.WlzxEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlzxServiceManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlzx-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.wanho.manage_cms.WlzxServiceManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlzxServiceManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlzx-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.wanho.manage_course.WlzxServiceManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlzxServiceManageMediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlzx-service-manage-media" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.wanho.manage_media.WlzxServiceManageMediaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlzxServiceSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlzx-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.wanho.service_search.WlzxServiceSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestProcessBuilder.testMp4VideoUtil" />
+        <item itemvalue="JUnit.TestProcessBuilder.testFFmpeg" />
+        <item itemvalue="JUnit.TestProcessBuilder.testProcessBuilder" />
+        <item itemvalue="JUnit.TestFile.testMerge" />
+        <item itemvalue="JUnit.TestFile2.testChunk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8a8589-be2d-4da1-955f-a971ddba0008" name="Default Changelist" comment="" />
+      <created>1573040186858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573040186858</updated>
+      <workItem from="1573040190309" duration="3129000" />
+      <workItem from="1573085400532" duration="2078000" />
+      <workItem from="1573096516166" duration="253000" />
+      <workItem from="1573097615171" duration="17649000" />
+      <workItem from="1573137687207" duration="119000" />
+      <workItem from="1573138149027" duration="164000" />
+      <workItem from="1573172935696" duration="4375000" />
+      <workItem from="1573196927023" duration="647000" />
+      <workItem from="1573211908613" duration="278000" />
+      <workItem from="1573212303667" duration="50000" />
+      <workItem from="1573264006932" duration="14420000" />
+      <workItem from="1573432721651" duration="376000" />
+      <workItem from="1573433232500" duration="13060000" />
+      <workItem from="1573518422516" duration="10552000" />
+      <workItem from="1573607880580" duration="25690000" />
+      <workItem from="1573691553700" duration="12592000" />
+      <workItem from="1573797982578" duration="974000" />
+      <workItem from="1573965502300" duration="594000" />
+      <workItem from="1574038182154" duration="20706000" />
+      <workItem from="1574144938151" duration="30000" />
+      <workItem from="1574145238412" duration="8074000" />
+      <workItem from="1574210259467" duration="2327000" />
+      <workItem from="1574241914989" duration="626000" />
+      <workItem from="1574246043036" duration="6174000" />
+      <workItem from="1574305967038" duration="9289000" />
+      <workItem from="1574340705724" duration="1026000" />
+      <workItem from="1574576200318" duration="1326000" />
+      <workItem from="1574693893056" duration="803000" />
+      <workItem from="1574751528313" duration="3014000" />
+      <workItem from="1574817047989" duration="262000" />
+      <workItem from="1574818743469" duration="2082000" />
+      <workItem from="1574843556906" duration="609000" />
+      <workItem from="1576228406544" duration="847000" />
+      <workItem from="1577282131836" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FastDFSTest_uploadMyTemplate - 2019.11.18 at 15h 02m 06s.xml">
+      <configuration name="FastDFSTest.uploadMyTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FastDFSTest_uploadMyTemplate - 2019.11.18 at 15h 04m 20s.xml">
+      <configuration name="FastDFSTest.uploadMyTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WlzxServiceSearchApplicationTests_testFindByNameLike - 2019.11.19 at 16h 14m 09s.xml">
+      <configuration name="WlzxServiceSearchApplicationTests.testFindByNameLike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFile2_testChunk - 2019.11.20 at 19h 20m 09s.xml">
+      <configuration name="TestFile2.testChunk" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFile2_testChunk - 2019.11.20 at 19h 20m 38s.xml">
+      <configuration name="TestFile2.testChunk" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFile_testMerge - 2019.11.20 at 19h 22m 21s.xml">
+      <configuration name="TestFile.testMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFile_testMerge - 2019.11.20 at 19h 22m 54s.xml">
+      <configuration name="TestFile.testMerge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProcessBuilder_testProcessBuilder - 2019.11.21 at 11h 26m 56s.xml">
+      <configuration name="TestProcessBuilder.testProcessBuilder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProcessBuilder_testFFmpeg - 2019.11.21 at 11h 31m 00s.xml">
+      <configuration name="TestProcessBuilder.testFFmpeg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProcessBuilder_testMp4VideoUtil - 2019.11.21 at 11h 33m 27s.xml">
+      <configuration name="TestProcessBuilder.testMp4VideoUtil" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="164647000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3008658" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35064936" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16341992" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3982684" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.1076759" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="BPMNPalette" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wlzx-service-search/src/main/java/net/wanho/service_search/controller/EsCourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/mapper/CmsTemplateMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-search/src/main/java/net/wanho/service_search/service/EsCourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="86" column="64" selection-start-line="86" selection-start-column="64" selection-end-line="86" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-search/src/test/java/net/wanho/service_search/WlzxServiceSearchApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/service/CmsTemplateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/config/MyBatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/test/java/net/wanho/manage_media/TestFile2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="88" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-api/src/main/java/net/wanho/api/media/MediaUploadControllerApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/config/ExceptionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/media/MediaFileProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/media/MediaFileProcessM3u8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/test/java/net/wanho/manage_media/TestFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="21" column="20" selection-start-line="9" selection-start-column="6" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/WlzxServiceManageMediaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-common/src/main/java/net/wanho/common/util/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-common/src/main/java/net/wanho/common/util/VideoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-973">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/controller/MediaUploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="34" column="82" lean-forward="true" selection-start-line="34" selection-start-column="82" selection-end-line="34" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-common/src/main/java/net/wanho/common/util/Mp4VideoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/test/java/net/wanho/manage_media/TestProcessBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="88" column="16" lean-forward="true" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-common/src/main/java/net/wanho/common/util/HlsVideoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1049">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/service/MediaUploadService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4347">
+          <caret line="180" column="8" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/listener/MediaListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="32" column="92" selection-start-line="32" selection-start-column="92" selection-end-line="32" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/controller/CmsPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/mapper/MediaFileProcessM3u8Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/resources/mapper/MediaFileProcessM3u8Mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/client/CmsPageClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/config/FastDFSConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-po/src/main/java/net/wano/po/media/MediaFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/service/CmsPageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4779">
+          <caret line="177" column="96" selection-start-line="177" selection-start-column="96" selection-end-line="177" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8623#8624#0" expanded="true" />
+            <element signature="e#8701#8702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2349">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/mapper/CmsPageMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/test/java/net/wanho/manage_cms/FastDFSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/config/RabbitmqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="30" column="141" selection-start-line="30" selection-start-column="141" selection-end-line="30" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-media/src/main/java/net/wanho/manage_media/mapper/MediaFileMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/config/FastDFSConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/config/ExceptionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/config/MyBatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/config/RabbitmqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/listener/PostPageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/java/net/wanho/manage_cms/WlzxServiceManageCmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-eureka-server/src/main/java/net/wanho/eureka_server/WlzxEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-cms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-course/src/main/resources/mapper/SysDictionaryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-course/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlzx-service-manage-course/src/main/java/net/wanho/manage_course/WlzxServiceManageCourseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+net\wanho\api\course\CategoryControllerApi.class
+net\wanho\api\learning\CourseLearningControllerApi.class
+net\wanho\api\ucenter\UcenterControllerApi.class
+net\wanho\api\auth\AuthControllerApi.class
+net\wanho\api\course\CourseControllerApi.class
+net\wanho\api\cms\CmsTemplateControllerApi.class
+net\wanho\api\media\MediaUploadControllerApi.class
+net\wanho\api\cms\CmsPageControllerApi.class
+net\wanho\api\cms\CmsSiteControllerApi.class
+net\wanho\api\config\Swagger2Configuration.class
+net\wanho\api\media\MediaFileControllerApi.class
+net\wanho\api\sys\SysDictionaryControllerApi.class
+net\wanho\api\search\EsCourseControllerApi.class
+net\wanho\api\cms\CmsConfigControllerApi.class
+net\wanho\api\filesystem\FileSystemControllerApi.class
