@@ -33,7 +33,7 @@
         <spring-boot.version>2.1.8.RELEASE</spring-boot.version>
         <mybatis-spring-boot.version>2.1.0</mybatis-spring-boot.version>
 
-        <springframework.version>5.1.9.RELEASE</springframework.version>
+        <springframework.version>6.0.0</springframework.version>
         <pagehelper.version>1.2.12</pagehelper.version>
         <druid.version>1.1.20</druid.version>
         <mysql-connector-java.version>5.1.48</mysql-connector-java.version>
